@@ -11,7 +11,7 @@ const App = () => {
   return (
     <StyledView className="flex-1 items-center justify-center bg-blue-600">
       <StyledText className="text-slate-800 bg-yellow-300">
-        Try editing me! 🎉
+        Yo gar voici le code que tu voulais
       </StyledText>
       <StyledView       className='bg-zinc-600rounded pb-4'
 >
